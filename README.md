@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Welcome to Dogetopia!
+
+Please check out our whitepaper at www.dogetopia.org.
+
+Please get involved with our codebase if you would like to contribute! OCaml and C++ skills are especially appreciated, as are many others!
+
+Let us together make Dogecoin 2.x the greatest currency of Earth!
 <!--
 **dogetopia/dogetopia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
